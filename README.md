@@ -1,5 +1,5 @@
 <h1 align="center">
-Gerador de Senhas aleatórios 
+Gerador de Senhas aleatórias 
 </h1>
 
 <p align="center">Projeto diciplicar.</p>
