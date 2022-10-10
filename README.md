@@ -22,7 +22,7 @@ $ cd gerador_password
 $ go run main.go
 
 ```
-## O Projeito
+## O Projeto
 - Vem de uma necedidade de senhas fortes e distintas para diversas ocasiões:
 - CLI pode gerar uma grande quantidade de senhas 
 
